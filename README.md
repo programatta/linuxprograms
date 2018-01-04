@@ -1,7 +1,7 @@
 # linuxprograms
 Notes for my linux machine.
 
-# KeepassX
+## KeepassX
 ~~~~
 sudo add-apt-repository ppa:eugenesan/ppa
 sudo apt-get update
